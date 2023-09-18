@@ -1,6 +1,6 @@
 package test; 
 
-public calss TestCase09{
+public class TestCase09{
 
 
 //working on test case 9 
